@@ -1,0 +1,205 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "for": "women",
+      "title": "Crocodile-patterned boots",
+      "type": "knee-high boots",
+      "color": "black",
+      "img": "http://localhost:3000/assets/images/w1.jpeg",
+      "price": "49.99",
+      "sizes": ["2.5", "3.5", "4", "5", "6", "6.5", "7.5", "8"]
+    },
+    {
+      "id": 2,
+      "for": "women",
+      "title": "Tasselled loafers",
+      "type": "loafers",
+      "color": "black",
+      "img": "http://localhost:3000/assets/images/w2.jpeg",
+      "price": "29.99",
+      "sizes": ["2.5", "3.5", "4", "5", "6", "6.5", "7.5", "8"]
+    },
+    {
+      "id": 3,
+      "for": "women",
+      "title": "Warm-lined boots",
+      "type": "boots",
+      "color": "beige",
+      "img": "http://localhost:3000/assets/images/w3.jpeg",
+      "price": "29.99",
+      "sizes": ["2.5", "3.5", "4", "5", "6", "6.5", "7.5", "8"]
+    },
+    {
+      "id": 4,
+      "for": "women",
+      "title": "Pointed ankle boots",
+      "type": "ankle-boots",
+      "color": "black",
+      "img": "http://localhost:3000/assets/images/w4.jpeg",
+      "price": "34.99",
+      "sizes": ["2.5", "3.5", "4", "5", "6", "6.5", "7.5", "8"]
+    },
+    {
+      "id": 5,
+      "for": "women",
+      "title": "Warm-lined Chelsea boots",
+      "type": "boots",
+      "color": "white",
+      "img": "http://localhost:3000/assets/images/w5.jpeg",
+      "price": "29.99",
+      "sizes": ["2.5", "3.5", "4", "5", "6", "6.5", "7.5", "8"]
+    },
+    {
+      "id": 6,
+      "for": "women",
+      "title": "Trainers",
+      "type": "trainers",
+      "color": "light-pink",
+      "img": "http://localhost:3000/assets/images/w6.jpeg",
+      "price": "24.99",
+      "sizes": ["2.5", "3.5", "4", "5", "6", "6.5", "7.5", "8"]
+    },
+    {
+      "id": 7,
+      "for": "women",
+      "title": "Crocodile-patterned boots",
+      "type": "knee-high boots",
+      "color": "white",
+      "img": "http://localhost:3000/assets/images/w7.jpeg",
+      "price": "49.99",
+      "sizes": ["2.5", "3.5", "4", "5", "6", "6.5", "7.5", "8"]
+    },
+    {
+      "id": 8,
+      "for": "women",
+      "title": "Trainers",
+      "type": "trainers",
+      "color": "cream",
+      "img": "http://localhost:3000/assets/images/w8.jpeg",
+      "price": "19.99",
+      "sizes": ["2.5", "3.5", "4", "5", "6", "6.5", "7.5", "8"]
+    },
+    {
+      "id": 9,
+      "for": "women",
+      "title": "Chelsea boots",
+      "type": "boots",
+      "color": "dark-brown",
+      "img": "http://localhost:3000/assets/images/w9.jpeg",
+      "price": "24.99",
+      "sizes": ["2.5", "3.5", "4", "5", "6", "6.5", "7.5", "8"]
+    },
+    {
+      "id": 10,
+      "for": "women",
+      "title": "Cotton twill boots",
+      "type": "boots",
+      "color": "beige",
+      "img": "http://localhost:3000/assets/images/w10.jpeg",
+      "price": "49.99",
+      "sizes": ["2.5", "3.5", "4", "5", "6", "6.5", "7.5", "8"]
+    },
+
+    {
+      "id": 11,
+      "for": "men",
+      "title": "Canvas trainers",
+      "type": "trainers",
+      "color": "black",
+      "img": "http://localhost:3000/assets/images/m1.jpeg",
+      "price": "19.99",
+      "sizes": ["6", "6.5", "7.5", "8", "9", "9.5", "10.5", "11"]
+    },
+    {
+      "id": 12,
+      "for": "men",
+      "title": "Chelsea boots",
+      "type": "boots",
+      "color": "burgundy",
+      "img": "http://localhost:3000/assets/images/m2.jpeg",
+      "price": "34.99",
+      "sizes": ["6", "6.5", "7.5", "8", "9", "9.5", "10.5", "11"]
+    },
+    {
+      "id": 13,
+      "for": "men",
+      "title": "Leather trainers",
+      "type": "trainers",
+      "color": "white",
+      "img": "http://localhost:3000/assets/images/m3.jpeg",
+      "price": "49.99",
+      "sizes": ["6", "6.5", "7.5", "8", "9", "9.5", "10.5", "11"]
+    },
+    {
+      "id": 14,
+      "for": "men",
+      "title": "Boots",
+      "type": "boots",
+      "color": "dark brown",
+      "img": "http://localhost:3000/assets/images/m4.jpeg",
+      "price": "49.99",
+      "sizes": ["6", "6.5", "7.5", "8", "9", "9.5", "10.5", "11"]
+    },
+    {
+      "id": 15,
+      "for": "men",
+      "title": "Derby shoes",
+      "type": "shoes",
+      "color": "dark blue",
+      "img": "http://localhost:3000/assets/images/m5.jpeg",
+      "price": "29.99",
+      "sizes": ["6", "6.5", "7.5", "8", "9", "9.5", "10.5", "11"]
+    },
+    {
+      "id": 16,
+      "for": "men",
+      "title": "Boots",
+      "type": "boots",
+      "color": "Ochre",
+      "img": "http://localhost:3000/assets/images/m6.jpeg",
+      "price": "39.99",
+      "sizes": ["6", "6.5", "7.5", "8", "9", "9.5", "10.5", "11"]
+    },
+    {
+      "id": 17,
+      "for": "men",
+      "title": "Hi-top trainers",
+      "type": "trainers",
+      "color": "dark blue",
+      "img": "http://localhost:3000/assets/images/m7.jpeg",
+      "price": "34.99",
+      "sizes": ["6", "6.5", "7.5", "8", "9", "9.5", "10.5", "11"]
+    },
+    {
+      "id": 18,
+      "for": "men",
+      "title": "Brogue-patterned boots",
+      "type": "boots",
+      "color": "dark brown",
+      "img": "http://localhost:3000/assets/images/m8.jpeg",
+      "price": "39.99",
+      "sizes": ["6", "6.5", "7.5", "8", "9", "9.5", "10.5", "11"]
+    },
+    {
+      "id": 19,
+      "for": "men",
+      "title": "Trainers",
+      "type": "trainers",
+      "color": "light grey",
+      "img": "http://localhost:3000/assets/images/m9.jpeg",
+      "price": "79.99",
+      "sizes": ["6", "6.5", "7.5", "8", "9", "9.5", "10.5", "11"]
+    },
+    {
+      "id": 20,
+      "for": "men",
+      "title": "Slip-on trainers",
+      "type": "trainers",
+      "color": "grey marl",
+      "img": "http://localhost:3000/assets/images/m10.jpeg",
+      "price": "17.99",
+      "sizes": ["6", "6.5", "7.5", "8", "9", "9.5", "10.5", "11"]
+    }
+  ]
+}
