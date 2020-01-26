@@ -1,4 +1,5 @@
 const productsRoutes = require("./products");
+const basketRoutes = require("./basket");
 
 const appRouter = (app, fs) => {
   // Default Route.
@@ -8,6 +9,7 @@ const appRouter = (app, fs) => {
 
   // Running women route module.
   productsRoutes(app, fs);
+  basketRoutes(app, fs);
 };
 
 module.exports = appRouter;

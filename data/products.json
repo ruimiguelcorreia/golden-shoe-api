@@ -7,8 +7,17 @@
       "type": "knee-high boots",
       "color": "black",
       "img": "http://localhost:3000/assets/images/w1.jpeg",
-      "price": "49.99",
-      "sizes": ["2.5", "3.5", "4", "5", "6", "6.5", "7.5", "8"]
+      "price": 49.99,
+      "sizes": [
+        { "number": "2.5", "stock": 2 },
+        { "number": "3.5", "stock": 2 },
+        { "number": "4", "stock": 4 },
+        { "number": "5", "stock": 1 },
+        { "number": "6", "stock": 3 },
+        { "number": "6.5", "stock": 4 },
+        { "number": "7.5", "stock": 0 },
+        { "number": "8", "stock": 0 }
+      ]
     },
     {
       "id": 2,
@@ -17,8 +26,17 @@
       "type": "loafers",
       "color": "black",
       "img": "http://localhost:3000/assets/images/w2.jpeg",
-      "price": "29.99",
-      "sizes": ["2.5", "3.5", "4", "5", "6", "6.5", "7.5", "8"]
+      "price": 29.99,
+      "sizes": [
+        { "number": "2.5", "stock": 2 },
+        { "number": "3.5", "stock": 2 },
+        { "number": "4", "stock": 4 },
+        { "number": "5", "stock": 1 },
+        { "number": "6", "stock": 3 },
+        { "number": "6.5", "stock": 4 },
+        { "number": "7.5", "stock": 0 },
+        { "number": "8", "stock": 0 }
+      ]
     },
     {
       "id": 3,
@@ -27,8 +45,17 @@
       "type": "boots",
       "color": "beige",
       "img": "http://localhost:3000/assets/images/w3.jpeg",
-      "price": "29.99",
-      "sizes": ["2.5", "3.5", "4", "5", "6", "6.5", "7.5", "8"]
+      "price": 29.99,
+      "sizes": [
+        { "number": "2.5", "stock": 2 },
+        { "number": "3.5", "stock": 2 },
+        { "number": "4", "stock": 4 },
+        { "number": "5", "stock": 1 },
+        { "number": "6", "stock": 3 },
+        { "number": "6.5", "stock": 4 },
+        { "number": "7.5", "stock": 0 },
+        { "number": "8", "stock": 0 }
+      ]
     },
     {
       "id": 4,
@@ -37,8 +64,17 @@
       "type": "ankle-boots",
       "color": "black",
       "img": "http://localhost:3000/assets/images/w4.jpeg",
-      "price": "34.99",
-      "sizes": ["2.5", "3.5", "4", "5", "6", "6.5", "7.5", "8"]
+      "price": 34.99,
+      "sizes": [
+        { "number": "2.5", "stock": 2 },
+        { "number": "3.5", "stock": 2 },
+        { "number": "4", "stock": 4 },
+        { "number": "5", "stock": 1 },
+        { "number": "6", "stock": 3 },
+        { "number": "6.5", "stock": 4 },
+        { "number": "7.5", "stock": 0 },
+        { "number": "8", "stock": 0 }
+      ]
     },
     {
       "id": 5,
@@ -47,8 +83,17 @@
       "type": "boots",
       "color": "white",
       "img": "http://localhost:3000/assets/images/w5.jpeg",
-      "price": "29.99",
-      "sizes": ["2.5", "3.5", "4", "5", "6", "6.5", "7.5", "8"]
+      "price": 29.99,
+      "sizes": [
+        { "number": "2.5", "stock": 2 },
+        { "number": "3.5", "stock": 2 },
+        { "number": "4", "stock": 4 },
+        { "number": "5", "stock": 1 },
+        { "number": "6", "stock": 3 },
+        { "number": "6.5", "stock": 4 },
+        { "number": "7.5", "stock": 0 },
+        { "number": "8", "stock": 0 }
+      ]
     },
     {
       "id": 6,
@@ -57,8 +102,17 @@
       "type": "trainers",
       "color": "light-pink",
       "img": "http://localhost:3000/assets/images/w6.jpeg",
-      "price": "24.99",
-      "sizes": ["2.5", "3.5", "4", "5", "6", "6.5", "7.5", "8"]
+      "price": 24.99,
+      "sizes": [
+        { "number": "2.5", "stock": 2 },
+        { "number": "3.5", "stock": 2 },
+        { "number": "4", "stock": 4 },
+        { "number": "5", "stock": 1 },
+        { "number": "6", "stock": 3 },
+        { "number": "6.5", "stock": 4 },
+        { "number": "7.5", "stock": 0 },
+        { "number": "8", "stock": 0 }
+      ]
     },
     {
       "id": 7,
@@ -67,8 +121,17 @@
       "type": "knee-high boots",
       "color": "white",
       "img": "http://localhost:3000/assets/images/w7.jpeg",
-      "price": "49.99",
-      "sizes": ["2.5", "3.5", "4", "5", "6", "6.5", "7.5", "8"]
+      "price": 49.99,
+      "sizes": [
+        { "number": "2.5", "stock": 2 },
+        { "number": "3.5", "stock": 2 },
+        { "number": "4", "stock": 4 },
+        { "number": "5", "stock": 1 },
+        { "number": "6", "stock": 3 },
+        { "number": "6.5", "stock": 4 },
+        { "number": "7.5", "stock": 0 },
+        { "number": "8", "stock": 0 }
+      ]
     },
     {
       "id": 8,
@@ -77,8 +140,17 @@
       "type": "trainers",
       "color": "cream",
       "img": "http://localhost:3000/assets/images/w8.jpeg",
-      "price": "19.99",
-      "sizes": ["2.5", "3.5", "4", "5", "6", "6.5", "7.5", "8"]
+      "price": 19.99,
+      "sizes": [
+        { "number": "2.5", "stock": 2 },
+        { "number": "3.5", "stock": 2 },
+        { "number": "4", "stock": 4 },
+        { "number": "5", "stock": 1 },
+        { "number": "6", "stock": 3 },
+        { "number": "6.5", "stock": 4 },
+        { "number": "7.5", "stock": 0 },
+        { "number": "8", "stock": 0 }
+      ]
     },
     {
       "id": 9,
@@ -87,8 +159,17 @@
       "type": "boots",
       "color": "dark-brown",
       "img": "http://localhost:3000/assets/images/w9.jpeg",
-      "price": "24.99",
-      "sizes": ["2.5", "3.5", "4", "5", "6", "6.5", "7.5", "8"]
+      "price": 24.99,
+      "sizes": [
+        { "number": "2.5", "stock": 2 },
+        { "number": "3.5", "stock": 2 },
+        { "number": "4", "stock": 4 },
+        { "number": "5", "stock": 1 },
+        { "number": "6", "stock": 3 },
+        { "number": "6.5", "stock": 4 },
+        { "number": "7.5", "stock": 0 },
+        { "number": "8", "stock": 0 }
+      ]
     },
     {
       "id": 10,
@@ -97,8 +178,17 @@
       "type": "boots",
       "color": "beige",
       "img": "http://localhost:3000/assets/images/w10.jpeg",
-      "price": "49.99",
-      "sizes": ["2.5", "3.5", "4", "5", "6", "6.5", "7.5", "8"]
+      "price": 49.99,
+      "sizes": [
+        { "number": "2.5", "stock": 2 },
+        { "number": "3.5", "stock": 2 },
+        { "number": "4", "stock": 4 },
+        { "number": "5", "stock": 1 },
+        { "number": "6", "stock": 3 },
+        { "number": "6.5", "stock": 4 },
+        { "number": "7.5", "stock": 0 },
+        { "number": "8", "stock": 0 }
+      ]
     },
 
     {
@@ -108,8 +198,17 @@
       "type": "trainers",
       "color": "black",
       "img": "http://localhost:3000/assets/images/m1.jpeg",
-      "price": "19.99",
-      "sizes": ["6", "6.5", "7.5", "8", "9", "9.5", "10.5", "11"]
+      "price": 19.99,
+      "sizes": [
+        { "number": "6", "stock": 3 },
+        { "number": "6.5", "stock": 4 },
+        { "number": "7.5", "stock": 0 },
+        { "number": "8", "stock": 0 },
+        { "number": "9", "stock": 2 },
+        { "number": "9.5", "stock": 1 },
+        { "number": "10.5", "stock": 3 },
+        { "number": "11", "stock": 2 }
+      ]
     },
     {
       "id": 12,
@@ -118,8 +217,17 @@
       "type": "boots",
       "color": "burgundy",
       "img": "http://localhost:3000/assets/images/m2.jpeg",
-      "price": "34.99",
-      "sizes": ["6", "6.5", "7.5", "8", "9", "9.5", "10.5", "11"]
+      "price": 34.99,
+      "sizes": [
+        { "number": "6", "stock": 3 },
+        { "number": "6.5", "stock": 4 },
+        { "number": "7.5", "stock": 0 },
+        { "number": "8", "stock": 0 },
+        { "number": "9", "stock": 2 },
+        { "number": "9.5", "stock": 1 },
+        { "number": "10.5", "stock": 3 },
+        { "number": "11", "stock": 2 }
+      ]
     },
     {
       "id": 13,
@@ -128,8 +236,17 @@
       "type": "trainers",
       "color": "white",
       "img": "http://localhost:3000/assets/images/m3.jpeg",
-      "price": "49.99",
-      "sizes": ["6", "6.5", "7.5", "8", "9", "9.5", "10.5", "11"]
+      "price": 49.99,
+      "sizes": [
+        { "number": "6", "stock": 3 },
+        { "number": "6.5", "stock": 4 },
+        { "number": "7.5", "stock": 0 },
+        { "number": "8", "stock": 0 },
+        { "number": "9", "stock": 2 },
+        { "number": "9.5", "stock": 1 },
+        { "number": "10.5", "stock": 3 },
+        { "number": "11", "stock": 2 }
+      ]
     },
     {
       "id": 14,
@@ -138,8 +255,17 @@
       "type": "boots",
       "color": "dark brown",
       "img": "http://localhost:3000/assets/images/m4.jpeg",
-      "price": "49.99",
-      "sizes": ["6", "6.5", "7.5", "8", "9", "9.5", "10.5", "11"]
+      "price": 49.99,
+      "sizes": [
+        { "number": "6", "stock": 3 },
+        { "number": "6.5", "stock": 4 },
+        { "number": "7.5", "stock": 0 },
+        { "number": "8", "stock": 0 },
+        { "number": "9", "stock": 2 },
+        { "number": "9.5", "stock": 1 },
+        { "number": "10.5", "stock": 3 },
+        { "number": "11", "stock": 2 }
+      ]
     },
     {
       "id": 15,
@@ -148,8 +274,17 @@
       "type": "shoes",
       "color": "dark blue",
       "img": "http://localhost:3000/assets/images/m5.jpeg",
-      "price": "29.99",
-      "sizes": ["6", "6.5", "7.5", "8", "9", "9.5", "10.5", "11"]
+      "price": 29.99,
+      "sizes": [
+        { "number": "6", "stock": 3 },
+        { "number": "6.5", "stock": 4 },
+        { "number": "7.5", "stock": 0 },
+        { "number": "8", "stock": 0 },
+        { "number": "9", "stock": 2 },
+        { "number": "9.5", "stock": 1 },
+        { "number": "10.5", "stock": 3 },
+        { "number": "11", "stock": 2 }
+      ]
     },
     {
       "id": 16,
@@ -158,8 +293,17 @@
       "type": "boots",
       "color": "Ochre",
       "img": "http://localhost:3000/assets/images/m6.jpeg",
-      "price": "39.99",
-      "sizes": ["6", "6.5", "7.5", "8", "9", "9.5", "10.5", "11"]
+      "price": 39.99,
+      "sizes": [
+        { "number": "6", "stock": 3 },
+        { "number": "6.5", "stock": 4 },
+        { "number": "7.5", "stock": 0 },
+        { "number": "8", "stock": 0 },
+        { "number": "9", "stock": 2 },
+        { "number": "9.5", "stock": 1 },
+        { "number": "10.5", "stock": 3 },
+        { "number": "11", "stock": 2 }
+      ]
     },
     {
       "id": 17,
@@ -168,8 +312,17 @@
       "type": "trainers",
       "color": "dark blue",
       "img": "http://localhost:3000/assets/images/m7.jpeg",
-      "price": "34.99",
-      "sizes": ["6", "6.5", "7.5", "8", "9", "9.5", "10.5", "11"]
+      "price": 34.99,
+      "sizes": [
+        { "number": "6", "stock": 3 },
+        { "number": "6.5", "stock": 4 },
+        { "number": "7.5", "stock": 0 },
+        { "number": "8", "stock": 0 },
+        { "number": "9", "stock": 2 },
+        { "number": "9.5", "stock": 1 },
+        { "number": "10.5", "stock": 3 },
+        { "number": "11", "stock": 2 }
+      ]
     },
     {
       "id": 18,
@@ -178,8 +331,17 @@
       "type": "boots",
       "color": "dark brown",
       "img": "http://localhost:3000/assets/images/m8.jpeg",
-      "price": "39.99",
-      "sizes": ["6", "6.5", "7.5", "8", "9", "9.5", "10.5", "11"]
+      "price": 39.99,
+      "sizes": [
+        { "number": "6", "stock": 3 },
+        { "number": "6.5", "stock": 4 },
+        { "number": "7.5", "stock": 0 },
+        { "number": "8", "stock": 0 },
+        { "number": "9", "stock": 2 },
+        { "number": "9.5", "stock": 1 },
+        { "number": "10.5", "stock": 3 },
+        { "number": "11", "stock": 2 }
+      ]
     },
     {
       "id": 19,
@@ -188,8 +350,17 @@
       "type": "trainers",
       "color": "light grey",
       "img": "http://localhost:3000/assets/images/m9.jpeg",
-      "price": "79.99",
-      "sizes": ["6", "6.5", "7.5", "8", "9", "9.5", "10.5", "11"]
+      "price": 79.99,
+      "sizes": [
+        { "number": "6", "stock": 3 },
+        { "number": "6.5", "stock": 4 },
+        { "number": "7.5", "stock": 0 },
+        { "number": "8", "stock": 0 },
+        { "number": "9", "stock": 2 },
+        { "number": "9.5", "stock": 1 },
+        { "number": "10.5", "stock": 3 },
+        { "number": "11", "stock": 2 }
+      ]
     },
     {
       "id": 20,
@@ -198,8 +369,17 @@
       "type": "trainers",
       "color": "grey marl",
       "img": "http://localhost:3000/assets/images/m10.jpeg",
-      "price": "17.99",
-      "sizes": ["6", "6.5", "7.5", "8", "9", "9.5", "10.5", "11"]
+      "price": 17.99,
+      "sizes": [
+        { "number": "6", "stock": 3 },
+        { "number": "6.5", "stock": 4 },
+        { "number": "7.5", "stock": 0 },
+        { "number": "8", "stock": 0 },
+        { "number": "9", "stock": 2 },
+        { "number": "9.5", "stock": 1 },
+        { "number": "10.5", "stock": 3 },
+        { "number": "11", "stock": 2 }
+      ]
     }
   ]
 }
